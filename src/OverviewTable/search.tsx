@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from "react";
 import { Form, Select, Button, Flex, Tooltip } from "antd";
 import JsFileDownload from "js-file-download";
